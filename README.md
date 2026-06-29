@@ -41,26 +41,12 @@ Your dashboard includes:
 ---
 
 ## 📂 Folder Structure
+
 weather-dashboard/
 │
 ├── main.html
 ├── style.css
 ├── script.js
----
-
-## 🌐 APIs Used
-
-### Open-Meteo Weather API
-
-Provides real-time weather data.
-
-https://open-meteo.com/
-
-### Open-Meteo Geocoding API
-
-Converts city names into latitude and longitude.
-
-https://open-meteo.com/en/docs/geocoding-api
 
 ---
 
